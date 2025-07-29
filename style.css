@@ -29,6 +29,14 @@ h2 {
     margin-top: 0;
 }
 
+h3 {
+    color: #ffffff;
+    margin: 0px;
+    margin-bottom: 16px;
+    -webkit-text-stroke: 2px black;
+    font-size: 58px;
+}
+
 p {
     color: #ffffff;
     font-size: 30px;
